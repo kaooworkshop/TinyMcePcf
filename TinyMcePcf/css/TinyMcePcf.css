@@ -1,0 +1,30 @@
+body {
+    font-family: Segoe UI,Tahoma,Arial;
+    font-size: 11px;
+    margin: 0px;
+    background-color: #f6f8fa;
+}
+
+.tox .tox-notification--success {
+    background-color: #e4eeda;
+    border-color: #d7e6c8;
+    color: #222f3e;
+}
+
+.tox .tox-notification--info {
+    background-color: #d6e7fb;
+    border-color: #c1dbf9;
+    color: #222f3e
+}
+
+.tox .tox-notification--warn, .tox .tox-notification--warning {
+    background-color: #fff5cc;
+    border-color: #fff0b3;
+    color: #222f3e;
+}
+
+.tox .tox-notification--error {
+    background-color: #f5cccc;
+    border-color: #f0b3b3;
+    color: #222f3e;
+}
